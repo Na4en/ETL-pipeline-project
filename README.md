@@ -26,7 +26,7 @@ The database will be created at:
 data/university_data.db
 ```
 
-## 📂 Output Table
+##  Output Table
 | Column | Description |
 |--------|--------------|
 | name | University Name |
